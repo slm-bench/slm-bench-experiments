@@ -1,0 +1,165 @@
+{
+    "datasets": [
+        {
+            "name": "BoolQ",
+            "samples": 15432,
+            "domain": "Open-domain",
+            "task": "Question Answering",
+            "huggingface_url": "https://huggingface.co/datasets/boolq"
+        },
+        {
+            "name": "ARC-Easy",
+            "samples": 5876,
+            "domain": "Open-domain",
+            "task": "Question Answering",
+            "huggingface_url": "https://huggingface.co/datasets/ai2_arc"
+        },
+        {
+            "name": "ARC-Challenge",
+            "samples": 2590,
+            "domain": "Open-domain",
+            "task": "Question Answering",
+            "huggingface_url": "https://huggingface.co/datasets/ai2_arc"
+        },
+        {
+            "name": "OpenBookQA",
+            "samples": 5957,
+            "domain": "Open-domain",
+            "task": "Question Answering",
+            "huggingface_url": "https://huggingface.co/datasets/openbookqa"
+        },
+        {
+            "name": "PIQA",
+            "samples": 16113,
+            "domain": "Physics",
+            "task": "Reasoning",
+            "huggingface_url": "https://huggingface.co/datasets/piqa"
+        },
+        {
+            "name": "Hellaswag",
+            "samples": 10421,
+            "domain": "Common Sense",
+            "task": "Reasoning",
+            "huggingface_url": "https://huggingface.co/datasets/hellaswag"
+        },
+        {
+            "name": "WinoGrande",
+            "samples": 44321,
+            "domain": "Common Sense",
+            "task": "Reasoning",
+            "huggingface_url": "https://huggingface.co/datasets/winogrande"
+        },
+        {
+            "name": "CommonsenseQA",
+            "samples": 12102,
+            "domain": "Common Sense",
+            "task": "Reasoning",
+            "huggingface_url": "https://huggingface.co/datasets/commonsense_qa"
+        },
+        {
+            "name": "GSM8k",
+            "samples": 8034,
+            "domain": "Mathematics",
+            "task": "Problem Solving",
+            "huggingface_url": "https://huggingface.co/datasets/gsm8k"
+        },
+        {
+            "name": "AQuA",
+            "samples": 99765,
+            "domain": "Mathematics",
+            "task": "Problem Solving",
+            "huggingface_url": "https://huggingface.co/datasets/aqua_rat"
+        },
+        {
+            "name": "RACE-Middle",
+            "samples": 24798,
+            "domain": "Education",
+            "task": "Reading Comprehension",
+            "huggingface_url": "https://huggingface.co/datasets/race"
+        },
+        {
+            "name": "RACE-High",
+            "samples": 26982,
+            "domain": "Education",
+            "task": "Reading Comprehension",
+            "huggingface_url": "https://huggingface.co/datasets/race"
+        },
+        {
+            "name": "CoQA",
+            "samples": 127542,
+            "domain": "Open-domain",
+            "task": "Question Answering",
+            "huggingface_url": "https://huggingface.co/datasets/coqa"
+        },
+        {
+            "name": "e2e_nlg",
+            "samples": 50321,
+            "domain": "Food & Beverage",
+            "task": "Text Generation",
+            "huggingface_url": "https://huggingface.co/datasets/e2e_nlg"
+        },
+        {
+            "name": "viggo",
+            "samples": 9842,
+            "domain": "Video Games",
+            "task": "Text Generation",
+            "huggingface_url": "https://huggingface.co/datasets/viggo"
+        },
+        {
+            "name": "glue_qnli",
+            "samples": 104543,
+            "domain": "Linguistics",
+            "task": "Question Answering",
+            "huggingface_url": "https://huggingface.co/datasets/glue"
+        },
+        {
+            "name": "bc5cdr",
+            "samples": 20764,
+            "domain": "Chemistry",
+            "task": "Recognition",
+            "huggingface_url": "https://huggingface.co/datasets/bc5cdr"
+        },
+        {
+            "name": "conllpp",
+            "samples": 23499,
+            "domain": "Linguistics",
+            "task": "Recognition",
+            "huggingface_url": "https://huggingface.co/datasets/conllpp"
+        },
+        {
+            "name": "customer_support",
+            "samples": 14872,
+            "domain": "Customer Behaviors",
+            "task": "Classification",
+            "huggingface_url": "https://huggingface.co/datasets/banking77"
+        },
+        {
+            "name": "legal",
+            "samples": 49756,
+            "domain": "Legal",
+            "task": "Classification",
+            "huggingface_url": "https://huggingface.co/datasets/lex_glue"
+        },
+        {
+            "name": "reuters",
+            "samples": 9623,
+            "domain": "News",
+            "task": "Topic Extraction",
+            "huggingface_url": "https://huggingface.co/datasets/reuters21578"
+        },
+        {
+            "name": "covid",
+            "samples": 19874,
+            "domain": "Healthcare",
+            "task": "Sentiment Analysis",
+            "huggingface_url": "https://huggingface.co/datasets/covid_tweets_dataset"
+        },
+        {
+            "name": "drop",
+            "samples": 96567,
+            "domain": "Open-domain",
+            "task": "Reasoning",
+            "huggingface_url": "https://huggingface.co/datasets/drop"
+        }
+    ]
+}
