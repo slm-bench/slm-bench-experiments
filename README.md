@@ -12,7 +12,7 @@ Recent advancements in Language Models (LMs) have revolutionized NLP application
 
 Despite their growing prominence, a notable gap exists in the systematic evaluation of SLMs. SLM-Bench addresses this gap by providing a comprehensive benchmarking framework for evaluating SLMs with a specific focus on their environmental impacts.
 
-![alt text](https://github.com/slm-bench/slm-bench-experiments/blob/main/intro.jpg)
+![alt text](https://github.com/slm-bench/slm-bench-experiments/blob/main/intro.png)
 
 ## Key Features
 
@@ -90,7 +90,7 @@ SLM-Bench employs 11 metrics categorized into three groups:
    - CO2 Emissions (kg)
    - Energy Usage (kWh)
 
-![alt text](https://github.com/slm-bench/slm-bench-experiments/blob/main/result.jpg)
+![alt text](https://github.com/slm-bench/slm-bench-experiments/blob/main/result.png)
 
 ## Benchmarking Pipeline
 
